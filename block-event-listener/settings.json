@@ -1,0 +1,14 @@
+{
+    "BSC": {
+        "RPC": "https://data-seed-prebsc-1-s1.binance.org:8545",
+        "BRIDGE": "0x80B5876da92DCBCF84aEAe0B2799627419762c0D",
+        "LAST_BLOCK_SYNCED": 14881513,
+        "BLOCK_SYNC_RANGE": 2
+    },
+    "POLYGON": {
+        "RPC": "https://rpc-mumbai.maticvigil.com",
+        "BRIDGE" : "0xd81e0b096F9Ab40DB361eD2e00b90418c33d7b5b",
+        "LAST_BLOCK_SYNCED": 22526492,
+        "BLOCK_SYNC_RANGE": 2
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "matic_mumbai": {
+        "token": "0xd6E6CFc9B6c4d8903bC594f557B6874E183D85B2",
+        "bridge": "0xd81e0b096F9Ab40DB361eD2e00b90418c33d7b5b",
+        "fee": "0.1"
+    },
+    "matic_mainnet": {
+        "token": "",
+        "bridge": ""
+    },
+    "bsc_testnet": {
+        "token": "0x1053B757A924f34dc263D05B216f6fbFe3F65F39",
+        "bridge": "0x80B5876da92DCBCF84aEAe0B2799627419762c0D",
+        "fee": "0.05"
+    },
+    "bsc_mainnet": {
+        "token": "",
+        "bridge": ""
+    }
+}

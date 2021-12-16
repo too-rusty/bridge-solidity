@@ -1,0 +1,14 @@
+{
+    "BSC": {
+        "RPC": "https://bsc-dataseed.binance.org/",
+        "BRIDGE": "0xf2211B11a7a2A54d796bea6D54009369680122f4",
+        "LAST_BLOCK_SYNCED": 13219943,
+        "BLOCK_SYNC_RANGE": 200
+    },
+    "POLYGON": {
+        "RPC": "https://polygon-rpc.com",
+        "BRIDGE": "0xf2211B11a7a2A54d796bea6D54009369680122f4",
+        "LAST_BLOCK_SYNCED": 22209101,
+        "BLOCK_SYNC_RANGE": 200
+    }
+}
